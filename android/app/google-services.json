@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183542711477",
+    "project_id": "khaddemni-f03d0",
+    "storage_bucket": "khaddemni-f03d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183542711477:android:3ae9e71c65e18048b46afc",
+        "android_client_info": {
+          "package_name": "com.example.khaddemni_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN7sAnKEDkyxBQKGgCPhQVgqQH22UDcb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

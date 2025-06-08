@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Khaddemni</string> <string name="facebook_app_id">3011966322310047</string>
+    
+    <string name="fb_login_protocol_scheme">fb3011966322310047</string>
+    
+    <string name="facebook_client_token">812c744a7f459cec53ed52d37549acd9</string>
+</resources>
